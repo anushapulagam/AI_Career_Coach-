@@ -31,7 +31,7 @@ pinned: false
 
 ### 📊 Tab 1 — Career Analysis
 
-<img src="Screenshots/03_analysis_result.png" width="800"/>
+<img src="Screenshots/03_resume_analysis.png" width="800"/>
 
 ### 💬 Tab 2 — Chat with Coach
 
