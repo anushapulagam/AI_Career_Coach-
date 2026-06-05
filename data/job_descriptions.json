@@ -1,0 +1,44 @@
+[
+  {
+    "role": "Python Developer",
+    "description": "We are looking for a Python Developer with strong knowledge of Python programming, REST APIs, Django or Flask framework, SQL databases, Git version control, and problem-solving skills. Experience with data structures, algorithms, and object-oriented programming is required. Knowledge of Docker and cloud platforms like AWS is a plus."
+  },
+  {
+    "role": "Data Analyst",
+    "description": "Seeking a Data Analyst skilled in Python, SQL, Excel, Power BI or Tableau. Must be able to analyze large datasets, create dashboards, write complex SQL queries, and present insights to stakeholders. Knowledge of statistics, data cleaning, and pandas library is essential."
+  },
+  {
+    "role": "Machine Learning Engineer",
+    "description": "Looking for an ML Engineer with experience in Python, scikit-learn, TensorFlow or PyTorch, feature engineering, model training and evaluation, and deployment of ML models. Strong knowledge of statistics, linear algebra, and data preprocessing required."
+  },
+  {
+    "role": "AI Engineer",
+    "description": "Hiring an AI Engineer with knowledge of Large Language Models, Prompt Engineering, LangChain, RAG architecture, vector databases like FAISS or Pinecone, Python, and API integration. Experience building AI-powered applications and chatbots is preferred."
+  },
+    {
+    "role": "Backend Developer",
+    "description": "We need a Backend Developer proficient in Python or Node.js, REST API development, SQL and NoSQL databases, authentication systems, Git, and server deployment. Knowledge of microservices architecture and Docker is an advantage."
+  },
+  {
+    "role": "Data Scientist",
+    "description": "Seeking a Data Scientist with strong Python skills, machine learning, deep learning, NLP, statistical modeling, data visualization using matplotlib or seaborn, and experience with Jupyter notebooks. Ability to communicate findings clearly to business teams is required."
+  },
+  {
+    "role": "NLP Engineer",
+    "description": "Looking for an NLP Engineer with expertise in natural language processing, text classification, named entity recognition, transformers, HuggingFace, Python, and LLM fine-tuning. Experience with tokenization, embeddings, and language model evaluation is essential."
+  },
+  {
+    "role": "Full Stack Developer",
+    "description": "Hiring a Full Stack Developer with skills in React or Vue.js for frontend, Python Django or Node.js for backend, SQL databases, REST APIs, Git, and deployment on cloud platforms. Understanding of responsive design and web security is required."
+  },
+  {
+    "role": "DevOps Engineer",
+    "description": "We are hiring a DevOps Engineer with experience in Docker, Kubernetes, CI/CD pipelines, Linux, shell scripting, AWS or Azure, and monitoring tools like Grafana. Strong understanding of software deployment, automation, and infrastructure management is required."
+  },
+  {
+    "role": "Generative AI Developer",
+    "description": "Looking for a Generative AI Developer with hands-on experience in LLMs, prompt engineering, LangChain, RAG systems, vector stores, Gradio or Streamlit for UI, and Python. Ability to build end-to-end AI applications and integrate with APIs is essential."
+  }
+]
+
+

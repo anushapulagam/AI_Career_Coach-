@@ -1,0 +1,7 @@
+gradio
+groq
+PyPDF2
+faiss-cpu
+sentence-transformers
+python-dotenv
+numpy
